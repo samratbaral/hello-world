@@ -6,9 +6,9 @@ My first repository on GitHub. CodePath
 Hello Word! This App you can change the background of "Hello from Samrat!". into yellow (default->"Yellow" Color)
 
 ### App Walk-though
+https://i.imgur.com/bZnap6P.gifv
 
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://i.imgur.com/bZnap6P.gifv" width=200><br>
 
 
 ### Required User Stories
